@@ -1,0 +1,23 @@
+a{color: aqua}
+li{
+    display: inline;
+    margin-left: 250px
+}
+body{background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);}
+a:hover{color: orangered}
+a{
+    text-decoration: none
+}
+form{
+    margin-left: 500px
+}
+div{color: white}
+#submit{
+    color: blue
+}
+#submit:hover{color: aquamarine}
+#courses{margin-left: 550px}
